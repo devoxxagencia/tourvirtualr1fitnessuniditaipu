@@ -1,0 +1,42 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = R1 Fitness Unid Itaipú 
+
+## Skin
+
+### Multiline Text
+HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_811F5BD3_9619_FA40_41DC_579525FF34EF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><B>#VCNAR1</B></SPAN></SPAN></DIV></div>
+HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><U>UNIDADE ITAIPÚ</U></SPAN></SPAN></DIV></div>
+HTMLText_8FACB396_961B_2AC3_41D0_795A96BFE3FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;"><U>UNIDADE  ITAIPÚ</U></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_AB0000E6_A052_8DEB_4173_A59F79E9C507.label = PARTE DE CIMA 02
+panorama_AB00232C_A052_8C7F_41D4_09B50F54C903.label = PARTE DE CIMA 03
+panorama_AB007258_A052_8C27_41BB_0D30324B56DC.label = INTERNO 03
+panorama_AB008600_A053_7427_41D0_F8DEC22AC5CF.label = PARTE DE CIMA 04
+panorama_AB0096A9_A052_9479_41D4_879D3CD7FF0D.label = INTERNO 04
+panorama_AB1F2D28_A04D_7467_41A5_1A313D0FEEB2.label = INTERNO 02
+panorama_AB1F9BEA_A052_F3FB_41B9_0A149CE28469.label = PARTE DE CIMA 01
+panorama_AB2BA824_A04D_9C6F_41D2_CEE451534338.label = INTERNO 01
+panorama_AB39B54D_A04E_F439_41E0_B0D1E2D912D4.label = ENTRADA 02
+video_B108C737_A052_B469_41DB_07A13D0FEF3D.label = 10000000_5143635715705356_224122238734069019_n
+
+## Action
+
+### URL
+LinkBehaviour_81D0E5BC_962B_273A_41CE_139A000E1816.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_83ECB5F9_9AEB_076E_41DA_A1E53401D602.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20muito%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20academia%2C%20voc%C3%AA%20pode%20me%20ajudar%3F
+LinkBehaviour_8632C2FA_9DA9_1D6D_41E0_51A3FB6137F8.source = https://www.instagram.com/r1fitnessgyn/
+LinkBehaviour_86350302_9DA9_1C9D_41D4_881160661F7F.source = https://api.whatsapp.com/send?phone=5562982007734&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20muito%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20academia%2C%20voc%C3%AA%20pode%20me%20ajudar%3F
+LinkBehaviour_86376301_9DA9_1C9F_41C9_EE81487C0E6B.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
+LinkBehaviour_863BA309_9DA9_1CAE_41CA_077CA659898A.source = https://r1fitnesss.negocio.site/
+LinkBehaviour_B325286A_A057_9CFB_41DB_F77CCCEDB8C6.source = https://r1-fitness-unidll.negocio.site/
+LinkBehaviour_B3B2E45A_A055_74D8_41C3_821ACF352428.source = https://www.google.com/maps/place//data=!4m2!3m1!1s0x935ef9cda87c9069:0x36288a7113c46f14?source=g.page.share
