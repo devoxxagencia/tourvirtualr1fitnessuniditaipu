@@ -39,4 +39,4 @@ LinkBehaviour_86350302_9DA9_1C9D_41D4_881160661F7F.source = https://api.whatsapp
 LinkBehaviour_86376301_9DA9_1C9F_41C9_EE81487C0E6B.source = https://www.google.com/maps/place/R1+Fitness+-+Unid.+I/@-16.7337279,-49.3639507,17z/data=!4m5!3m4!1s0x935ef62bc0c0c4f9:0xadaae530be22aff9!8m2!3d-16.733733!4d-49.361762
 LinkBehaviour_863BA309_9DA9_1CAE_41CA_077CA659898A.source = https://r1fitnesss.negocio.site/
 LinkBehaviour_B325286A_A057_9CFB_41DB_F77CCCEDB8C6.source = https://r1-fitness-unidll.negocio.site/
-LinkBehaviour_B3B2E45A_A055_74D8_41C3_821ACF352428.source = https://www.google.com/maps/place//data=!4m2!3m1!1s0x935ef9cda87c9069:0x36288a7113c46f14?source=g.page.share
+LinkBehaviour_B5E94FAF_A0D3_7478_41B2_1C2A3B5DB46E.source = https://www.google.com/maps/uv?pb=!1s0x935ef9cda87c9069%3A0x36288a7113c46f14!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMRsx0PdQNUdW-wukwYtr5gqVvBf4rd9B88T0_a%3Dw284-h160-k-no!5sR1%20Fitness%20-%20Unid.%20II%20-%20Pesquisa%20Google!15sCgIgAQ&imagekey=!1e10!2sAF1QipMRsx0PdQNUdW-wukwYtr5gqVvBf4rd9B88T0_a&hl=pt-BR&sa=X&ved=2ahUKEwiSqqTf8bn3AhW8HLkGHW_KCrMQoip6BAhDEAM&cshid=1651256579931304
